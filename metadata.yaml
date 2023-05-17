@@ -1,0 +1,31 @@
+_repo: The-Pennsylvania-Journal-of-prison-discipline-and-philanthropy-Vol-VIII-No-III-July-1853_70463
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pennsylvania Prison Society
+    aliases:
+    - Society, Pennsylvania Prison
+    - Philadelphia Society for Alleviating the Miseries of Public Prisons
+    gutenberg_agent_id: '49187'
+    url: http://www.gutenberg.org/2009/agents/49187
+description: ''
+gutenberg_issued: '2023-04-05'
+identifiers:
+  gutenberg: '70463'
+language: en
+pgterms:marc905: 20161026072033unk
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bE. C. and J. Biddle.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charities -- Periodicals'
+- !lcsh 'Prisons -- Periodicals'
+- !lcc 'HV'
+- GITenberg
+title: The Pennsylvania Journal of prison discipline and philanthropy (Vol. VIII,
+  No. III, July 1853)
+url: http://www.gutenberg.org/ebooks/70463
