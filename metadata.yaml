@@ -1,5 +1,8 @@
 _repo: The-Pennsylvania-Journal-of-prison-discipline-and-philanthropy-Vol-VIII-No-III-July-1853_70463
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70463-h/images/cover.jpg
 creator:
   author:
     agent_name: Pennsylvania Prison Society
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49187'
     url: http://www.gutenberg.org/2009/agents/49187
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70463#The-Pennsylvania-Journal-of-prison-discipline-and-philanthropy-Vol-VIII-No-III-July-1853
 gutenberg_issued: '2023-04-05'
 identifiers:
   gutenberg: '70463'
